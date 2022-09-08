@@ -41,15 +41,15 @@ This project was brought to my cohort by the VP of Education at Code Fellows, as
 
 ### Wireframe
 
-![Wireframe for Coding Glossary App](./public/img/glossary_wireframe.png)
+![Wireframe for Coding Glossary App](./img/glossary_wireframe.png)
 
 ### Web Request/Response Cycle
 
-![Web Request & Response Cycle for Coding Glossary App](./public/img/glossary_wrrc.png)
+![Web Request & Response Cycle for Coding Glossary App](./img/glossary_wrrc.png)
 
 ### Domain Model
 
-![Domain Modeling for Coding Glossary App](./public/img/glossary_domain.png)
+![Domain Modeling for Coding Glossary App](./img/glossary_domain.png)
 
 ## Links and Resources
 
